@@ -1,0 +1,8 @@
+{
+  "name": "landing-page-creation",
+  "description": "Generate complete, conversion-optimized Next.js landing pages from a single prompt. Orchestrates copywriting (CRO + marketing psychology), SEO planning (meta tags, schema, sitemap), and UI/UX design intelligence — then writes every file from scratch.",
+  "author": {
+    "name": "Demian Thomas",
+    "github": "Demian-T"
+  }
+}
