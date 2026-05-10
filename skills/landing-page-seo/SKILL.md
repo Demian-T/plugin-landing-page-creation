@@ -1,6 +1,6 @@
 ---
 name: landing-page-seo
-description: Generates a complete SEO plan for a landing page before code is written. Covers site architecture, meta tags per page, schema markup types, XML sitemap config, robots.txt, and AI search optimization hints. Call after landing-page-copy and before building. Input: company_name, industry, pages list, content_brief (from landing-page-copy).
+description: "Generates a complete SEO plan for a landing page before code is written. Covers site architecture, meta tags per page, schema markup types, XML sitemap config, robots.txt, and AI search optimization hints. Call after landing-page-copy and before building. Inputs: company_name, industry, pages list, content_brief (from landing-page-copy)."
 ---
 
 # Landing Page SEO Planner

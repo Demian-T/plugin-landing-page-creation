@@ -1,6 +1,6 @@
 ---
 name: landing-page-copy
-description: Generates a complete conversion-optimized content brief for a landing page. Applies copywriting methodology, CRO principles, and marketing psychology to produce all page copy before any code is written. Call this before building a landing page. Input: company_name, industry, tagline_hint (optional), target_audience (optional), cta_goal (optional).
+description: "Generates a complete conversion-optimized content brief for a landing page. Applies copywriting methodology, CRO principles, and marketing psychology to produce all page copy before any code is written. Call this before building a landing page. Inputs: company_name, industry, tagline_hint (optional), target_audience (optional), cta_goal (optional)."
 ---
 
 # Landing Page Copy Generator

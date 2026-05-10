@@ -1,6 +1,6 @@
 ---
 name: landing-page
-description: Build a complete custom Next.js landing page from scratch. Trigger when user types `/landing-page`. Format: `/landing-page CompanyName | industry [| tagline] [| target] [| CTA]`. Orchestrates landing-page-copy → landing-page-seo + ui-ux-pro-max in parallel → build.
+description: "Build a complete custom Next.js landing page from scratch. Triggered by /landing-page. Usage: /landing-page CompanyName | industry [| tagline] [| target] [| CTA]. Orchestrates landing-page-copy then landing-page-seo + ui-ux-pro-max in parallel, then build."
 ---
 
 # Landing Page — Orchestrator
